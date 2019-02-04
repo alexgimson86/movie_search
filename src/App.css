@@ -6,3 +6,11 @@
   padding-bottom: 8px;
   padding-left: 16px;
 }
+
+.landscape { border: 1px solid #CCC; 
+  display: inline;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
